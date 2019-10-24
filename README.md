@@ -15,3 +15,4 @@ Um pequeno exemplo de como usar animações Lottie em ReactJS.
 Lottie é uma lib do airbnb para renderizar animações salvas em formato json, bem melhor que usar gifs e outros formatos pois é bem menor.
 
 Neste exemplo apenas renderizo uma animação simples na tela, mas dando todos os parametros necessários para renderizar animações em qualquer app.
+-
